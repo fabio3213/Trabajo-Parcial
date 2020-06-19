@@ -36,3 +36,6 @@ Refiere a la propiedad por la que es posible enviar mensajes sintácticamente ig
 
 Un ejemplo de polimorfismo, es cuando se tiene una clase pakimon (especia abstracta de personaje luchador de ficción) y de esta clase se instancian dos objetos. Los cuales heredan métodos, que según el tipo de objeto va a determinar cuál va a ser el efecto.
 Por ejemplo: el método ‘luchar’ no va a ser igual para un objeto charmandor, que para un objeto malevor.
+
+
+
