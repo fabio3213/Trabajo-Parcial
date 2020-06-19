@@ -33,5 +33,6 @@ Refiere a la propiedad por la que es posible enviar mensajes sintácticamente ig
  El polimorfismo es donde el método a invocar se determina en tiempo de ejecución según el tipo de objeto. Esta es una situación que se produce cuando tiene una clase que hereda de otra y anula un método en particular.
 
 3. Dar un ejemplo de la vida real de polimorfismo. Diagrama de clases y explicación.
+
 Un ejemplo de polimorfismo, es cuando se tiene una clase pakimon (especia abstracta de personaje luchador de ficción) y de esta clase se instancian dos objetos. Los cuales heredan métodos, que según el tipo de objeto va a determinar cuál va a ser el efecto.
 Por ejemplo: el método ‘luchar’ no va a ser igual para un objeto charmandor, que para un objeto malevor.
